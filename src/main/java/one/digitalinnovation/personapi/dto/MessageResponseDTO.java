@@ -9,4 +9,3 @@ public class MessageResponseDTO {
 
     private String message;
 }
-
